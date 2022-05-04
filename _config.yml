@@ -11,10 +11,10 @@ title                    : "Jinwen Wang"
 title_separator          : "-"
 name                     : &name "Jinwen Wang"
 description              : &description "PhD Candidate at Washington University in St. Louis"
-url                      : https://JinwenWang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://j1nwenwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "J1nwenWang/JinwenWang.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "j1nwenwang.github.io"
+teaser                   : "500x300.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jinwen Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate in System Security, Computer Security and Privacy Lab(CSPL), Computer Science & Engineering
+, Washington University in St. Louis"
+  location         : "Saint Louis, Missuri"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "jinwen.wang@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/wangjinwen/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -218,6 +219,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  
   # _publications
   - scope:
       path: ""
@@ -227,6 +229,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   # _portfolio
   - scope:
       path: ""
