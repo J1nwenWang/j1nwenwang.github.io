@@ -50,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Service and Leadership
 ======
 <!-- * Currently signed in to 43 different slack teams -->
 Reviewer of IEEE/ACM Transactions on Networking 
