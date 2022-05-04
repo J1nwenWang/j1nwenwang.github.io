@@ -87,7 +87,7 @@ author:
   location         : "Saint Louis, Missuri"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=V1YK5kYAAAAJ&hl=en
   email            : "jinwen.wang@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : J1nwenWang
   google_plus      :
   keybase          :
   instagram        :
