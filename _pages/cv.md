@@ -30,9 +30,7 @@ Education
 Skills
 ======
 * Kernel Programing
-* Compiler Customization
-  * LLVM
-  * GCC 
+* LLVM/GCC Compiler Customization
 
 Publications
 ======
@@ -54,4 +52,5 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!-- * Currently signed in to 43 different slack teams -->
+Reviewer of IEEE/ACM Transactions on Networking 
