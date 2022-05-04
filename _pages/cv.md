@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Computer Science, Sichuan University, 2016
 * M.S. in Computer Science, Tsinghua University in St. Louis, 2019
-* Ph.D in Computer Science and Engineering, Washington University in St. Louis, 2024 (expected)
+* Ph.D. in Computer Science and Engineering, Washington University in St. Louis, 2024 (expected)
 
 <!-- Work experience
 ======
