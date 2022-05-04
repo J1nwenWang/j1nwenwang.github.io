@@ -14,7 +14,7 @@ description              : &description "PhD Candidate at Washington University 
 url                      : https://j1nwenwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j1nwenwang.github.io"
-teaser                   : "bio.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "bio-photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinwen Wang"
-  avatar           : "profile.png"
+  avatar           : "bio.jpeg"
   bio              : "PhD Candidate in System Security, Computer Science & Engineering, Washington University in St. Louis"
   location         : "Saint Louis, Missuri"
   employer         :
