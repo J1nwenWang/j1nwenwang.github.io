@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
                                  
-Yuhao Wu, Yujie Wang, Shixuan Zhai, Zihan Li, Ao Li, *Jinwen Wang*, and Ning Zhang.<br>
+Yuhao Wu, Yujie Wang, Shixuan Zhai, Zihan Li, Ao Li, **Jinwen Wang**, and Ning Zhang.<br>
 [**RTSS**] <i>IEEE Real-Time Systems Symposium, 2022</i>               
 <!-- [[code](https://github.com/eli-b/idcbs)]  -->
