@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems"
+permalink:
+author_profile: true
+---
+
+{% include base_path %}
+                                 
+Tanmaya Mishra, **Jinwen Wang**, Thidapat Chantem, Ryan Gerdes and Ning Zhang. <br>
+[**RTNS**] <i> International Conference on Real-Time Networks and Systems, 2023.</i>               
+<!-- [[code](https://github.com/eli-b/idcbs)]  -->
