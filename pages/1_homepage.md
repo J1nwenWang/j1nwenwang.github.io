@@ -38,7 +38,7 @@ permalink: /homepage/
 
 * My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 
-* My paper extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
+* My extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
 
 * Our paper "Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems" was accepted by [RTNS'2023](https://rtns2023.cs.tu-dortmund.de). Congratulations to Tanmaya!
 
