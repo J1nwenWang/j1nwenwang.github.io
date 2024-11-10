@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 comments: true
 permalink: /project/
 ---
@@ -8,7 +8,7 @@ permalink: /project/
 * content
 {:toc}
 
-# My Projects
+# My Research
 ---
 
 >## 1. Real-time Trusted Execution Environment <br> --- Runtime Attack Isolation
