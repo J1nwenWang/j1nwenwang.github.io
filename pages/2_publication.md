@@ -73,14 +73,14 @@ permalink: /publication/
 
 ---
 
-* Xiaohan Zhang, **<u>Jinwen Wang</u>**, Yueqiang Cheng, Qi Li, Kun Sun, Yao Zheng, Ning Zhang, and Xinghua Li, Interface-Based Side Channel in TEE-Assisted Networked Services, IEEE/ACM Transactions on Networking (**TON**).
+* Xiaohan Zhang, **<u>Jinwen Wang</u>**, Yueqiang Cheng, Qi Li, Kun Sun, Yao Zheng, Ning Zhang, and Xinghua Li, "[Interface-Based Side Channel in TEE-Assisted Networked Services](https://ieeexplore.ieee.org/abstract/document/10184979)", IEEE/ACM Transactions on Networking (**TON**).
 
 
 ## Workshops and Posters 
 
 ---
 
-* Sinyin Chang, Ao Li, Evin Jaff, Yuanhaur Chang, **<u>Jinwen Wang</u>**, Ning Zhang, and Hsiao Hsu-Chun. Adapbox: Adaptive sandboxing in medical systems with ebpf, 11th ACM Workshop on Adaptive and Autonomous Cyber Defense, together with CCS(**AACD**), 2024.
+* Sinyin Chang, Ao Li, Evin Jaff, Yuanhaur Chang, **<u>Jinwen Wang</u>**, Ning Zhang, and Hsiao Hsu-Chun. Adapbox: Adaptive sandboxing in medical systems with ebpf, 11th ACM Workshop on Adaptive and Autonomous Cyber Defense, together with CCS (**AACD**), 2024.
 
 * **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[Demo: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23040-paper.pdf)", Inaugural Symposium on Vehicle Security and Privacy, together with NDSS (**VehicleSec**), 2023.
 
