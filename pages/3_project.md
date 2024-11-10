@@ -17,7 +17,7 @@ permalink: /project/
 
 A Trusted Execution Environment (TEE) is an runtime isolation solution designed to prevent security-critical code execution and data from being interfered with by potentially compromised software. Existing TEE solutions primarily focus on protecting the confidentiality and integrity of security-critical code and data, often leaving availability unprotected. However, CPSs additionally require availability, as completing tasks beyond their deadlines can lead to catastrophic consequences. This project aims to build TEEs that extend the security guarantees of existing solutions by adding availability to the existing focus on confidentiality and integrity.
 
-* In RT-TEE [S&P 2022], we propose a real-time TEE solution that protects the confidentiality, integrity, and real-time availability of security-critical CPU tasks and I/O operations from interference by potentially compromised operating systems in real-time CPSs, leveraging ARM TrustZone.
+* In RT-TEE [S&P 2022], we propose a real-time TEE solution that protects the confidentiality, integrity, and real-time availability of security-critical CPU tasks and sensing/actuating operations from interference by potentially compromised operating systems in real-time CPSs, leveraging ARM TrustZone.
 
 * In AvaGPU [CCS 2023], we propose a real-time TEE solution that guarantees the confidentiality, integrity, and real-time availability of security-critical GPU tasks, safeguarding them from potentially compromised operating systems.
 
