@@ -1,31 +1,29 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html>
 
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
+  {% include head.html %}
+ <!--<script src="https://s11.cnzz.com/z_stat.php?id=1261499950&web_id=1261499950" language="JavaScript" type="hidden"></script>-->
+<script type="text/javascript">  var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_1261499950'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1261499950' type='text/javascript'%3E%3C/script%3E"));</script>
+ <!--  <body data-spy="scroll" data-target="#myAffix"> -->
   <body>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include header.html %}
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    <div id="main" class="container main">
+      {{ content }}
     </div>
 
-    {% include scripts.html %}
+    
+    <div id="top" data-toggle="tooltip" data-placement="left" title="back to top">
+      <a href="javascript:;">
+        <div class="arrow"></div>
+        <div class="stick"></div>
+      </a>
+    </div>
 
+    {% include footer.html %}
+
+    {% include newpost.html %}
+  
   </body>
 </html>
