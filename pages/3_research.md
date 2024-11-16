@@ -48,8 +48,31 @@ A Trusted Execution Environment (TEE) is an runtime isolation solution designed 
 
 * Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium (**Security**), 2024.
 
+<!-- 
+## 3. Software Recovery from Memory Safety Attacks <br> --- Runtime Attack Recovery
+   
+### Overview
+   
+   Existing runtime attack prevention mechanims always stop e
+
+* In STML [DAC 2023], we propose a privacy-preserving solution that enables large DNN models to run on hardware resource-constrained microcontrollers.
+
+* In Procrastinating CFI [RTNS 2023], we propose a control flow integrity mechanism that ensures the runtime overhead from CFI does not disrupt the schedulability of real-time CPSs.
+
+* In OP-DFI [Security 2024], we propose a probabilistic DFI mechanism that protects the data flow integrity of real-time CPSs while minimizing the worst-case execution time (WCET) expansion, thereby reducing the impact on real-time performance.
+
+### Publications
+
+* **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference (**DAC**), 2023.
+
+* Tanmaya Mishra, **<u>Jinwen Wang</u>**, Thidapat Chantem, Ryan Gerdes and Ning Zhang, "[A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems](https://dl.acm.org/doi/pdf/10.1145/3575757.3575762)", 31st International Conference on Real-Time Networks and Systems (**RTNS 23**), 2023.
+
+* Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium (**Security**), 2024. -->
+
+
+
 ---
->## 3. Remote Attestation and Bug Discovery <br> --- Offline Security Reasoning
+>## 4. Remote Attestation and Bug Discovery <br> --- Offline Security Reasoning
 
 
 ### Overview
