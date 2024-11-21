@@ -50,7 +50,7 @@ Under Review, 2025.
 
 * **<u>Jinwen Wang*</u>**, Hongchao Zhang*, Ao Li, Chuanrui Jiang, Andrew Clark, and Ning Zhang, ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory. Under Review, 2025.
 
-* Canran Wang, **<u>Jinwen Wang</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, Secure Information Embedding in Forensic 3D Fingerprinting. Under Review, 2025.
+* Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, Secure Information Embedding in Forensic 3D Fingerprinting. Under Review, 2025.
 
 #### 2024
 
