@@ -20,7 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
-* Our paper " Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
+* Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
 
 * Our paper "An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts" was accepted by [RTAS'2024](https://2024.rtas.org). Congratulations to Ao!
 
