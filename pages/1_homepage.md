@@ -96,6 +96,7 @@ permalink: /homepage/
 
 ---
 **PC Member at Conferences:**
+* USENIX Security VehicleSec 2025
 * USENIX Security Artifact 2024
 * USENIX Annual Technical Conference 2024
 
