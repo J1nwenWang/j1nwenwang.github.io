@@ -20,6 +20,8 @@ permalink: /homepage/
 ## News
 
 ---
+* I am invited to serve on the TPC of USENIX VehiclesSec 2025!
+
 * Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
 
 * Our paper "An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts" was accepted by [RTAS'2024](https://2024.rtas.org). Congratulations to Ao!
@@ -38,7 +40,7 @@ permalink: /homepage/
 
 * My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 
-* My extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
+<!-- * My extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
 
 * Our paper "Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems" was accepted by [RTNS'2023](https://rtns2023.cs.tu-dortmund.de). Congratulations to Tanmaya!
 
@@ -46,8 +48,10 @@ permalink: /homepage/
 
 * Our paper "From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM" was accepted by [IROS'2022](https://www.ieee-security.org/TC/SP2022/). Congratulations to Ao!
 
-* Our paper " Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems" was accepted by [CCS'2021](https://www.sigsac.org/ccs/CCS2021/). Congratulations to Ao!
+* Our paper " Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems" was accepted by [CCS'2021](https://www.sigsac.org/ccs/CCS2021/). Congratulations to Ao! -->
 
+[**Full News List**](https://j1nwenwang.github.io/news/)
+<!-- [**Full News List**](../news/) -->
 
 ## Selected Publications  
 

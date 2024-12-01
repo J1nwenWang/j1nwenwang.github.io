@@ -48,22 +48,21 @@ A Trusted Execution Environment (TEE) is an runtime isolation solution designed 
 
 * Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium (**Security**), 2024.
 
-<!-- 
-## 3. Software Recovery from Memory Safety Attacks <br> --- Runtime Attack Recovery
+
+>## 3. Software Recovery from Memory Safety Attacks <br> --- Runtime Attack Recovery
    
 ### Overview
    
-   Existing runtime attack prevention mechanims always stop e
+   Existing runtime attack prevention mechanisms in cyber-physical systems typically halt execution upon detecting an attack to prevent further damage. However, abruptly stopping execution in CPSs can lead to catastrophic consequences. This project aims to develop a recovery mechanism that mitigates memory safety attacks while minimizing impacts on real-time performance, ensuring continuous, safe operation even under adversarial conditions.
 
-* In STML [DAC 2023], we propose a privacy-preserving solution that enables large DNN models to run on hardware resource-constrained microcontrollers.
-
-* In Procrastinating CFI [RTNS 2023], we propose a control flow integrity mechanism that ensures the runtime overhead from CFI does not disrupt the schedulability of real-time CPSs.
-
-* In OP-DFI [Security 2024], we propose a probabilistic DFI mechanism that protects the data flow integrity of real-time CPSs while minimizing the worst-case execution time (WCET) expansion, thereby reducing the impact on real-time performance.
+* In Gecko, we propose a software recovery mechanims that recover CPS from memory safety attacks with minimized real-time performance impacts.
 
 ### Publications
 
-* **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference (**DAC**), 2023.
+* **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, Software Availability Protection in Cyber-physical Systems.
+Under Review, 2025.
+
+<!-- * **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference (**DAC**), 2023.
 
 * Tanmaya Mishra, **<u>Jinwen Wang</u>**, Thidapat Chantem, Ryan Gerdes and Ning Zhang, "[A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems](https://dl.acm.org/doi/pdf/10.1145/3575757.3575762)", 31st International Conference on Real-Time Networks and Systems (**RTNS 23**), 2023.
 
