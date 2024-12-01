@@ -69,6 +69,8 @@ permalink: /homepage/
 
 * **[DAC 23]** **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference, 2023.
 
+* **[ToN]** Xiaohan Zhang, **<u>Jinwen Wang</u>**, Yueqiang Cheng, Qi Li, Kun Sun, Yao Zheng, Ning Zhang, and Xinghua Li, "[Interface-Based Side Channel in TEE-Assisted Networked Services](https://ieeexplore.ieee.org/abstract/document/10184979)", IEEE/ACM Transactions on Networking (**TON**).
+
 * **[RTNS 23]** Tanmaya Mishra, **<u>Jinwen Wang</u>**, Thidapat Chantem, Ryan Gerdes and Ning Zhang, "[A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems](https://dl.acm.org/doi/pdf/10.1145/3575757.3575762)", 31st International Conference on Real-Time Networks and Systems, 2023.
 
 * **[S&P 22]** **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878)", 43rd IEEE Symposium on Security and Privacy, 2022.
