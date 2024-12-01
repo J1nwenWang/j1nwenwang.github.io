@@ -20,7 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
-* I am invited to serve on the TPC of USENIX VehiclesSec 2025!
+* I am invited to serve on the TPC of USENIX VehicleSec 2025!
 
 * Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
 
