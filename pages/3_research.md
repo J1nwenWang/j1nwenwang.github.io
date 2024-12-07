@@ -49,7 +49,7 @@ A Trusted Execution Environment (TEE) is an runtime isolation solution designed 
 * Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium (**Security**), 2024.
 
 
->## 3. Software Recovery from Memory Safety Attacks <br> --- Runtime Attack Recovery
+>## 3. Software Recovery from Memory Safety Attacks <br> --- Runtime Attack Mitigation
    
 ### Overview
    
