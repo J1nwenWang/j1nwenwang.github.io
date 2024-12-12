@@ -45,12 +45,19 @@ permalink: /publication/
 #### Under Review
 * **<u>Jinwen Wang</u>**, Chung Hwan Kim, and Ning Zhang. Crossfire: Gpu-Cpu Cross-Computing-Unit Path-Sensitive Control Flow Integrity in Cyber-Physical Systems. Under Review, 2025.
 
-* **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, Software Availability Protection in Cyber-physical Systems.
-Under Review, 2025.
+<!-- * **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, Software Availability Protection in Cyber-physical Systems.
+Under Review, 2025. -->
 
 * **<u>Jinwen Wang*</u>**, Hongchao Zhang*, Ao Li, Chuanrui Jiang, Andrew Clark, and Ning Zhang, ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory. Under Review, 2025.
 
-* Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, Secure Information Embedding in Forensic 3D Fingerprinting. Under Review, 2025.
+<!-- * Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, Secure Information Embedding in Forensic 3D Fingerprinting. Under Review, 2025. -->
+
+#### 2025
+
+* **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
+
+* **[Security 25]** Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
+
 
 #### 2024
 

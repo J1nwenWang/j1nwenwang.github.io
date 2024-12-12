@@ -20,6 +20,8 @@ permalink: /homepage/
 ## News
 
 ---
+* My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" has been accepted in USENIX Security 2025!
+
 * I am invited to serve on the TPC of USENIX VehicleSec 2025!
 
 * Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
@@ -56,6 +58,9 @@ permalink: /homepage/
 ## Selected Publications  
 
 ---
+* **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
+
+* **[Security 25]** Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
 
 * **[RTAS 24]** Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang, "[An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf)", 30th IEEE Real-Time and Embedded Technology and Applications Symposium, 2024.
 

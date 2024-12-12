@@ -59,8 +59,7 @@ A Trusted Execution Environment (TEE) is an runtime isolation solution designed 
 
 ### Publications
 
-* **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, Software Availability Protection in Cyber-physical Systems.
-Under Review, 2025.
+* **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
 
 <!-- * **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference (**DAC**), 2023.
 
@@ -71,7 +70,7 @@ Under Review, 2025.
 
 
 ---
->## 4. Remote Attestation and Bug Discovery <br> --- Offline Security Reasoning
+>## 4. Attestation, Bug Discovery, and Fingerprinting <br> --- Offline Security Reasoning
 
 
 ### Overview
@@ -84,6 +83,8 @@ Offline CPS security reasoning plays an important role in reducing the attack su
 
 * In ChckUp [Security 2024], we propose an automated firmware update vulnerability discovery approach that identifies bugs in firmware update phases. Through this research, we discovered 26 zero-day vulnerabilities.
 
+* In SIDE [Security 2025], we propose an encoding and decoding approach to embed identity information in 3D printed objects.
+
 
 ### Publications
 
@@ -94,3 +95,5 @@ Offline CPS security reasoning plays an important role in reducing the attack su
 * Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang, "[An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf)", 30th IEEE Real-Time and Embedded Technology and Applications Symposium (**RTAS**), 2024.
 
 * Yuhao Wu, **<u>Jinwen Wang</u>**, Yujie Wang, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li, and Ning Zhang, "[Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities](https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf)", 33rd USENIX Security Symposium (**Security**), 2024.
+
+* **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
