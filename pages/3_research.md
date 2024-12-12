@@ -54,7 +54,7 @@ A Trusted Execution Environment (TEE) is an runtime isolation solution designed 
    
    Existing runtime attack prevention mechanisms in cyber-physical systems typically halt execution upon detecting an attack to prevent further damage. However, abruptly stopping execution in CPSs can lead to catastrophic consequences. This project aims to develop a recovery mechanism that mitigates memory safety attacks while minimizing impacts on real-time performance, ensuring continuous, safe operation even under adversarial conditions.
 
-* In Gecko, we propose a software recovery mechanims that recover CPS from memory safety attacks with minimized real-time performance impacts.
+* In Gecko[Security 2025], we propose a software recovery mechanims that recover CPS from memory safety attacks with minimized real-time performance impacts.
 
 ### Publications
 
