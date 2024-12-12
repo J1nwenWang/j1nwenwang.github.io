@@ -32,7 +32,7 @@ permalink: /publication/
   <tr>
   <td> <strong> Count </strong> </td>
   <td align="center"> 1 </td>
-  <td align="center"> 3 </td>
+  <td align="center"> 5 </td>
   <td align="center"> 1 </td>
   <td align="center"> 1 </td>
  </tr>
@@ -41,6 +41,7 @@ permalink: /publication/
 
 
 ---
+\* co-first authors
 
 #### Under Review
 * **<u>Jinwen Wang</u>**, Chung Hwan Kim, and Ning Zhang. Crossfire: Gpu-Cpu Cross-Computing-Unit Path-Sensitive Control Flow Integrity in Cyber-Physical Systems. Under Review, 2025.

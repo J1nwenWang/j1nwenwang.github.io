@@ -40,7 +40,7 @@ permalink: /homepage/
 
 * My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23). 
 
-* My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
+<!-- * My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). -->
 
 <!-- * My extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
 
@@ -55,9 +55,10 @@ permalink: /homepage/
 [**Full News List**](https://j1nwenwang.github.io/news/)
 <!-- [**Full News List**](../news/) -->
 
-## Selected Publications  
-
+## Selected Publications
 ---
+<!-- \* co-first authors -->
+
 * **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
 
 * **[Security 25]** Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
