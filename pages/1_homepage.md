@@ -20,7 +20,7 @@ permalink: /homepage/
 ## News
 
 ---
-* My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are accepted in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
+* My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are to be appeared in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
 
 * I am invited to serve on the TPC of USENIX VehicleSec 2025!
 
