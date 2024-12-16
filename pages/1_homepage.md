@@ -20,37 +20,25 @@ permalink: /homepage/
 ## News
 
 ---
-* My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are to be appeared in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
+* [Dec 2024] My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are to be appeared in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
 
-* I am invited to serve on the TPC of USENIX VehicleSec 2025!
+* [Nov 2024] I am invited to serve on the TPC of USENIX VehiclesSec 2025!
 
-* Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
+* [Sep 2024] Our paper "Adapbox: Adaptive sandboxing in medical systems with ebpf" was accepted by [AACD'2024](https://aacd24.github.io). Congratulations to Sinyin!
 
-* Our paper "An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts" was accepted by [RTAS'2024](https://2024.rtas.org). Congratulations to Ao!
+* [May 2024] Our two papers "Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation" and " “Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities" were accepted by [Security'2024](https://www.usenix.org/conference/usenixsecurity24). Congratulations to Yujie and Yuhao!
 
-* I am invited to serve on the TPC of USENIX ATC 2024!
+* [Jan 2024] Our paper "An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts" was accepted by [RTAS'2024](https://2024.rtas.org). Congratulations to Ao!
 
-* Our two papers "Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation" and " “Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities" were accepted by [Security'2024](https://www.usenix.org/conference/usenixsecurity24). Congratulations to Yujie and Yuhao!
+* [Feb 2024] I am invited to serve on the TPC of USENIX ATC 2024!
 
-* I am invited to serve on the TPC of USENIX Security Artifact Evaluation 2024!
+* [Sep 2023] My paper "Secure and Timely GPU Execution in Cyber-physical Systems" was accepted by [CCS'2023](https://www.sigsac.org/ccs/CCS2023/). 
 
-* My paper "Secure and Timely GPU Execution in Cyber-physical Systems" was accepted by [CCS'2023](https://www.sigsac.org/ccs/CCS2023/). 
+* [Feb 2023] My demo "Demo: Real-time System Availability for Cyber-physical Systems using ARM TrustZone" won VehicleSec Qualcomm Best Demo Award Runner Up in [VehicleSec'2023](https://www.ndss-symposium.org/ndss2023/co-located-events/vehiclesec/).
 
-* My demo "Demo: Real-time System Availability for Cyber-physical Systems using ARM TrustZone" won VehicleSec Qualcomm Best Demo Award Runner Up in [VehicleSec'2023](https://www.ndss-symposium.org/ndss2023/co-located-events/vehiclesec/).
+* [Feb 2023] My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 
-* My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23). 
-
-<!-- * My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023). -->
-
-<!-- * My extended paper "Interface-Based Side Channel in TEE-Assisted Networked Services" was accepted by ToN.
-
-* Our paper "Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems" was accepted by [RTNS'2023](https://rtns2023.cs.tu-dortmund.de). Congratulations to Tanmaya!
-
-* My paper " RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone" was accepted by [S&P'2022](https://www.ieee-security.org/TC/SP2022/).
-
-* Our paper "From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM" was accepted by [IROS'2022](https://www.ieee-security.org/TC/SP2022/). Congratulations to Ao!
-
-* Our paper " Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems" was accepted by [CCS'2021](https://www.sigsac.org/ccs/CCS2021/). Congratulations to Ao! -->
+* [Jan 2023] My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23). 
 
 [**Full News List**](https://j1nwenwang.github.io/news/)
 <!-- [**Full News List**](../news/) -->
@@ -65,11 +53,11 @@ permalink: /homepage/
 
 * **[Security 25]** Canran Wang*, **<u>Jinwen Wang*</u>**, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
 
-* **[RTAS 24]** Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang, "[An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf)", 30th IEEE Real-Time and Embedded Technology and Applications Symposium, 2024. [[code](https://github.com/WUSTL-CSPL/TimeTrap)]
-
 * **[Security 24]** Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium, 2024. [[code](https://github.com/WUSTL-CSPL/OP-DFI)]
 
 * **[Security 24]** Yuhao Wu, **<u>Jinwen Wang</u>**, Yujie Wang, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li, and Ning Zhang, "[Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities](https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf)", 33rd USENIX Security Symposium, 2024. [[code](https://github.com/WUSTL-CSPL/ChkUp)]
+
+* **[RTAS 24]** Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang, "[An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf)", 30th IEEE Real-Time and Embedded Technology and Applications Symposium, 2024. [[code](https://github.com/WUSTL-CSPL/TimeTrap)]
 
 * **[CCS 23]** **<u>Jinwen Wang</u>**, Yujie Wang, and Ning Zhang, "[Secure and Timely GPU Execution in Cyber-physical Systems](https://dl.acm.org/doi/pdf/10.1145/3576915.3623197)", 30th ACM Conference on Computer and Communications Security, 2023. [[code](https://j1nwenwang.github.io/)]
 
