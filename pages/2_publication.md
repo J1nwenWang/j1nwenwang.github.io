@@ -57,7 +57,7 @@ Under Review, 2025. -->
 
 * **[Security 25]** **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://j1nwenwang.github.io/publication/)", 34th USENIX Security Symposium, 2025. To be appeared.
 
-* **[Security 25]** **<u>Jinwen Wang*</u>**, Canran Wang*, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io/publication/)", 34th USENIX Security Symposium, 2025. To be appeared.
+* **[Security 25]** **<u>Jinwen Wang*</u>**, Canran Wang*, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://arxiv.org/pdf/2403.04918)", 34th USENIX Security Symposium, 2025. To be appeared.
 
 
 #### 2024
