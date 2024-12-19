@@ -80,7 +80,7 @@ Under Review, 2025. -->
 #### 2022
 
 
-* **[S&P 22]** **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878)", 43rd IEEE Symposium on Security and Privacy, 2022. *(**VehicleSec Qualcomm Best Demo Award Runner Up**)*  [[code](https://github.com/WUSTL-CSPL/RT-TEE)]
+* **[S&P 22]** **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878)", 43rd IEEE Symposium on Security and Privacy, 2022. <span style="color: red;">*(**VehicleSec Qualcomm Best Demo Award Runner Up**)*</span>  [[code](https://github.com/WUSTL-CSPL/RT-TEE)]
 
 * **[IROS 22]** Ao Li, Han Liu, **<u>Jinwen Wang</u>**, and Ning Zhang, "[From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf)", IEEE/RSJ International Conference on Intelligent Robots and Systems, 2022. [[code](https://github.com/WUSTL-CSPL/Timing-Adaptive-SLAM)]
 
