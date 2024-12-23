@@ -10,7 +10,7 @@ permalink: /publication/
 {:toc}
 
 
-## Publications
+## Conference Papers
 
 ---
 
@@ -39,6 +39,7 @@ permalink: /publication/
 </table>
 
 
+<!-- ## Conference Papers -->
 
 ---
 \* co-first authors
@@ -96,7 +97,7 @@ Under Review, 2025. -->
 
 ---
 
-* **[CCS 24]** Sinyin Chang, Ao Li, Evin Jaff, Yuanhaur Chang, **<u>Jinwen Wang</u>**, Ning Zhang, and Hsiao Hsu-Chun. Adapbox: Adaptive sandboxing in medical systems with ebpf, 11th ACM Workshop on Adaptive and Autonomous Cyber Defense (AACD), together with CCS, 2024.
+* **[CCS 24]** Sinyin Chang, Ao Li, Evin Jaff, Yuanhaur Chang, **<u>Jinwen Wang</u>**, Ning Zhang, and Hsiao Hsu-Chun. "[Adapbox: Adaptive sandboxing in medical systems with ebpf](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=V1YK5kYAAAAJ&citation_for_view=V1YK5kYAAAAJ:ULOm3_A8WrAC)", 11th ACM Workshop on Adaptive and Autonomous Cyber Defense (AACD), together with CCS, 2024.
 
 * **[NDSS 23]** **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[Demo: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23040-paper.pdf)", Inaugural Symposium on Vehicle Security and Privacy (VehicleSec), together with NDSS, 2023.
 
