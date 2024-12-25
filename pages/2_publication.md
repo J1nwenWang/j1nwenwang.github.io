@@ -20,7 +20,8 @@ permalink: /publication/
  <tr>
   <td> <strong> Area </strong> </td>
   <td colspan="3" align="center"> Security </td>
-  <td colspan="1" align="center"> Architecture </td>  
+  <td colspan="1" align="center"> Architecture </td> 
+  <td colspan="1" align="center"> Real-time</td>  
  </tr>
  <tr>
   <td> <strong> Conference </strong> </td>
@@ -28,11 +29,13 @@ permalink: /publication/
   <td> Security </td>
   <td> CCS </td>
   <td align="center"> DAC </td>
+  <td align="center"> RTAS </td>
  </tr>
   <tr>
   <td> <strong> Count </strong> </td>
   <td align="center"> 1 </td>
   <td align="center"> 5 </td>
+  <td align="center"> 1 </td>
   <td align="center"> 1 </td>
   <td align="center"> 1 </td>
  </tr>
