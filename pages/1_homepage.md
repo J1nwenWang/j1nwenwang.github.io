@@ -16,7 +16,7 @@ permalink: /homepage/
 
 <!-- ***I am on the job market in the 2024-2025 cycle, please feel free to reach out!***  -->
 
-***I will be joining the Department of Computer Science at the University of Texas at Dallas in Fall 2025. I am actively seeking self-motivated students to work on system, software, and AI security projects. If you are interested in these areas, please feel free to reach out to me.***
+<b style="color: red;">I will be joining the Department of Computer Science at the University of Texas at Dallas as an assistant professor in Fall 2025. I am actively seeking self-motivated Ph.D. students to work on system, software, and AI security projects. If you are interested in these areas, please feel free to reach out to me.</b>
 
 
 ## News
