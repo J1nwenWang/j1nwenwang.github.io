@@ -14,12 +14,9 @@ permalink: /homepage/
  
 |<br> He is a final year Ph.D. candidate in the Department of Computer Science and Engineering at Washington University in St. Louis (WashU). He is currently working in Computer Security and Privacy Lab under the supervision of [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). He earned his M.S. in Computer Science from Tsinghua University (THU) in 2019, where he was advised by [Prof. Qi Li](https://sites.google.com/site/qili2012/) in 2019, and his B.E. in Computer Science from Sichuan University (SCU) in 2016. <br><br>His research interests include **System Security**, **Software Security**, **Cyber-physical Systems (CPS)**, **Real-time Systems**,  **Privacy-preserving ML System**. He focuses on securing cyber-physical systems and MLSys by designing and implementing efficient (real-time performance guarenteed) runtime security mechanisms, including attack isolation (TEE on CPU and GPU), prevention (CFI, DFI, privacy-preserving ML systems), and mitigation (recovery). He also develops scalable security reasoning approaches (remote attestation, fuzzing, and fingerprinting). His work spans various CPSs, including autonomous vehicles and medical devices, with diverse architectures like CPUs and GPUs.<br><br>  **Email:** <jinwen.wang@wustl.edu>  <br> <br> | <br> ![image](../images/jinwen.jpg) <br> <br> |
 
+<!-- ***I am on the job market in the 2024-2025 cycle, please feel free to reach out!***  -->
 
-
-
-
-
-***I am on the job market in the 2024-2025 cycle, please feel free to reach out!*** 
+***I will be joining the Department of Computer Science at the University of Texas at Dallas in Fall 2025. I am actively seeking self-motivated students to work on system, software, and AI security projects. If you are interested in these areas, please feel free to reach out to me.***
 
 
 ## News
