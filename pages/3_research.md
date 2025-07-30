@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Research
 comments: true
@@ -96,4 +96,4 @@ Offline CPS security reasoning plays an important role in reducing the attack su
 * **[Security 24]** Yuhao Wu, **<u>Jinwen Wang</u>**, Yujie Wang, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li, and Ning Zhang, "[Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities](https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf)", 33rd USENIX Security Symposium, 2024.
 
 * **[Security 25]** **<u>Jinwen Wang*</u>**, Canran Wang*, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://j1nwenwang.github.io)", 34th USENIX Security Symposium, 2025. To be appeared.
-
+ -->
