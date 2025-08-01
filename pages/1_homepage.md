@@ -56,28 +56,42 @@ permalink: /homepage/
 
 * **[In Submission]** **<u>Jinwen Wang*</u>**, Hongchao Zhang*, Ao Li, Chuanrui Jiang, Andrew Clark, and Ning Zhang, ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory. Under Review, 2025. -->
 
-* **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang, "[Software Availability Protection in Cyber-physical Systems](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-967-li-ao.pdf)", 34th USENIX Security Symposium (Security), 2025. [[code](https://github.com/WUSTL-CSPL/Gecko)]
+* [Software Availability Protection in Cyber-physical Systems](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-967-li-ao.pdf) [[code](https://github.com/WUSTL-CSPL/Gecko)] <br>
+**<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang <br>
+34th USENIX Security Symposium (Security), 2025. 
 <!-- [Security 25]. -->
 
-* **<u>Jinwen Wang*</u>**, Canran Wang*, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv, "[Secure Information Embedding in Forensic 3D Fingerprinting](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-664-wang-canran.pdf)", 34th USENIX Security Symposium (Security), 2025. [[code](https://zenodo.org/records/14737894)]
-<!-- **[Security 25]** -->
+* [Secure Information Embedding in Forensic 3D Fingerprinting](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-664-wang-canran.pdf) [[code](https://zenodo.org/records/14737894)]<br>
+**<u>Jinwen Wang*</u>**, Canran Wang*, Mi Zhou, Vinh Pham, Senyue Hao, Chao Zhou, Ning Zhang, and Netanel Raviv<br>
+ 34th USENIX Security Symposium (Security), 2025.
 
-* Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang, "[Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf)", 33rd USENIX Security Symposium (Security), 2024. [[code](https://github.com/WUSTL-CSPL/OP-DFI)]
+* [Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation](https://www.usenix.org/system/files/sec23winter-prepub-485-wang-yujie.pdf) [[code](https://github.com/WUSTL-CSPL/OP-DFI)]<br>
+Yujie Wang, Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, and Ning Zhang <br>
+33rd USENIX Security Symposium (Security), 2024. 
 <!-- **[Security 24]** -->
 
-* Yuhao Wu, **<u>Jinwen Wang</u>**, Yujie Wang, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li, and Ning Zhang, "[Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities](https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf)", 33rd USENIX Security Symposium (Security), 2024. [[code](https://github.com/WUSTL-CSPL/ChkUp)]
+* [Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities](https://www.usenix.org/system/files/usenixsecurity24-wu-yuhao.pdf) [[code](https://github.com/WUSTL-CSPL/ChkUp)]<br>
+Yuhao Wu, **<u>Jinwen Wang</u>**, Yujie Wang, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li, and Ning Zhang <br>
+33rd USENIX Security Symposium (Security), 2024. 
 <!-- **[Security 24]** -->
 
-* Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang, "[An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf)", 30th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2024. [[code](https://github.com/WUSTL-CSPL/TimeTrap)]
-<!-- **[RTAS 24]** -->
+* [An Empirical Study of Performance Interference: Timing Violation Patterns and Impacts](https://cybersecurity.seas.wustl.edu/paper/rtas24_timetrap.pdf) [[code](https://github.com/WUSTL-CSPL/TimeTrap)]<br>
+Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang <br>
+30th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2024. 
 
-* **<u>Jinwen Wang</u>**, Yujie Wang, and Ning Zhang, "[Secure and Timely GPU Execution in Cyber-physical Systems](https://dl.acm.org/doi/pdf/10.1145/3576915.3623197)", 30th ACM Conference on Computer and Communications Security (CCS), 2023. [[code](https://j1nwenwang.github.io/)]
+* [Secure and Timely GPU Execution in Cyber-physical Systems](https://dl.acm.org/doi/pdf/10.1145/3576915.3623197) [[code](https://j1nwenwang.github.io/)]<br>
+**<u>Jinwen Wang</u>**, Yujie Wang, and Ning Zhang <br>
+30th ACM Conference on Computer and Communications Security (CCS), 2023. 
 <!-- **[CCS 23]** -->
 
-* **<u>Jinwen Wang</u>**, Yujie Wang, Ao Li, Yang Xiao, Ruide Zhang, Wenjing Lou, Y. Thomas Hou, and Ning Zhang, "[ARI: Attestation of Real-time Mission Execution Integrity](https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf)", 32nd USENIX Security Symposium (Security), 2023. [[code](https://github.com/WUSTL-CSPL/ARI)]
+* [ARI: Attestation of Real-time Mission Execution Integrity](https://www.usenix.org/system/files/usenixsecurity23-wang-jinwen.pdf) [[code](https://github.com/WUSTL-CSPL/ARI)]<br>
+**<u>Jinwen Wang</u>**, Yujie Wang, Ao Li, Yang Xiao, Ruide Zhang, Wenjing Lou, Y. Thomas Hou, and Ning Zhang <br>
+32nd USENIX Security Symposium (Security), 2023. 
 <!-- **[Security 23]** -->
 
-* **<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang, "[IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf)", 60th ACM/IEEE Design Automation Conference (DAC), 2023. [[code](https://github.com/WUSTL-CSPL/TinyML)]
+* [IP Protection in TinyML](https://cybersecurity.seas.wustl.edu/paper/wang2023ip.pdf) [[code](https://github.com/WUSTL-CSPL/TinyML)]<br>
+**<u>Jinwen Wang</u>**, Yuhao Wu, Han Liu, Bo Yuan, Roger Chamberlain, and Ning Zhang <br>
+60th ACM/IEEE Design Automation Conference (DAC), 2023. 
 <!-- **[DAC 23]** -->
 
 <!-- * Xiaohan Zhang, **<u>Jinwen Wang</u>**, Yueqiang Cheng, Qi Li, Kun Sun, Yao Zheng, Ning Zhang, and Xinghua Li, "[Interface-Based Side Channel in TEE-Assisted Networked Services](https://ieeexplore.ieee.org/abstract/document/10184979)", IEEE/ACM Transactions on Networking (**TON**). -->
@@ -86,11 +100,16 @@ permalink: /homepage/
 <!-- * Tanmaya Mishra, **<u>Jinwen Wang</u>**, Thidapat Chantem, Ryan Gerdes and Ning Zhang, "[A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems](https://dl.acm.org/doi/pdf/10.1145/3575757.3575762)", 31st International Conference on Real-Time Networks and Systems, 2023. -->
  <!-- **[RTNS 23]** -->
 
-* **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang, "[RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878)", 43rd IEEE Symposium on Security and Privacy (S&P), 2022. <span style="color: red;">*(**VehicleSec Qualcomm Best Demo Award Runner Up**)*</span>  [[code](https://github.com/WUSTL-CSPL/RT-TEE)]
+
+* [RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878) [[code](https://github.com/WUSTL-CSPL/RT-TEE)]<br>
+**<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang <br>
+43rd IEEE Symposium on Security and Privacy (S&P), 2022. <br>
+<span style="color: red;">*(**VehicleSec Qualcomm Best Demo Award Runner Up**)*</span>  
 <!-- **[S&P 22]** -->
 
-* Ao Li, Han Liu, **<u>Jinwen Wang</u>**, and Ning Zhang, "[From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf)", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.[[code](https://github.com/WUSTL-CSPL/Timing-Adaptive-SLAM)]
-<!-- **[IROS 22]** -->
+* [From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf) [[code](https://github.com/WUSTL-CSPL/Timing-Adaptive-SLAM)]<br>
+Ao Li, Han Liu, **<u>Jinwen Wang</u>**, and Ning Zhang <br>
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
 
 [**Full Publication List**](https://j1nwenwang.github.io/publication/)
 
@@ -98,11 +117,10 @@ permalink: /homepage/
 ## Awards and Honors
 
 ---
+*   Travel Grant in USENIX Security 2025
 *   VehicleSec Qualcomm Best Demo Award Runner Up 2023
-*   Travel Grant in ACE CCS 2023
-*   Travel Grant in USENIX Security 2023
+*   Travel Grant in ACM CCS 2023
 *   Travel Grant in RTSS 2022
-*   Travel Grant in IEEE S&P 2022
 *   Dean’s International Fellowship in Washington University in St. Louis 2019
 *   Second Class University Scholarship in Tsinghua University 2016
 *   National Scholarship in China 2013
@@ -112,6 +130,9 @@ permalink: /homepage/
 
 ---
 **PC Member at Conferences:**
+
+* ACM Asia CCS 2026
+* ACM Cyber Security in Cars Workshop 2025
 * USENIX VehicleSec 2025
 * USENIX Security Artifact 2024
 * USENIX Annual Technical Conference 2024
