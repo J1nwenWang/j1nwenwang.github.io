@@ -13,7 +13,9 @@ permalink: /news/
 ## News
 
 ---
-* [Dec 24] My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are to be appeared in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
+* [Aug 25] My paper "ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory" is accepted in  [CCS'2025](https://www.sigsac.org/ccs/CCS2025/)!
+
+* [Dec 24] My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are accepted in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
 
 * [Nov 24] I am invited to serve on the TPC of [USENIX VehiclesSec'2025](https://www.usenix.org/conference/vehiclesec25)!
 

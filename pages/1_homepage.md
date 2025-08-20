@@ -27,6 +27,8 @@ permalink: /homepage/
 ## News
 
 ---
+* [Aug 25] My paper "ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory" is accepted in  [CCS'2025](https://www.sigsac.org/ccs/CCS2025/)!
+
 * [Dec 24] My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are accepted in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
 
 * [Nov 24] I am invited to serve on the TPC of [USENIX VehiclesSec'2025](https://www.usenix.org/conference/vehiclesec25)!
@@ -45,7 +47,7 @@ permalink: /homepage/
 
 * [Feb 23] My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 
-* [Jan 23] My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23). 
+<!-- * [Jan 23] My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23).  -->
 
 [**Full News List**](https://j1nwenwang.github.io/news/)
 <!-- [**Full News List**](../news/) -->
@@ -53,8 +55,10 @@ permalink: /homepage/
 ## Selected Publications
 ---
 <!-- * **[In Submission]** **<u>Jinwen Wang</u>**, Chung Hwan Kim, and Ning Zhang. Crossfire: Gpu-Cpu Cross-Computing-Unit Path-Sensitive Control Flow Integrity in Cyber-Physical Systems. Under Review, 2025.
-
-* **[In Submission]** **<u>Jinwen Wang*</u>**, Hongchao Zhang*, Ao Li, Chuanrui Jiang, Andrew Clark, and Ning Zhang, ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory. Under Review, 2025. -->
+ -->
+* [ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory](./) <br>
+**<u>Jinwen Wang*</u>**, Hongchao Zhang*, Chuanrui Jiang, Andrew Clark, and Ning Zhang <br>
+32th ACM Conference on Computer and Communications Security (CCS), 2025. 
 
 * [Software Availability Protection in Cyber-physical Systems](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-967-li-ao.pdf) [[code](https://github.com/WUSTL-CSPL/Gecko)] <br>
 **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang <br>
@@ -100,16 +104,12 @@ Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang <br
 <!-- * Tanmaya Mishra, **<u>Jinwen Wang</u>**, Thidapat Chantem, Ryan Gerdes and Ning Zhang, "[A Procrastinating Control-Flow Integrity Framework for Periodic Real-Time Systems](https://dl.acm.org/doi/pdf/10.1145/3575757.3575762)", 31st International Conference on Real-Time Networks and Systems, 2023. -->
  <!-- **[RTNS 23]** -->
 
-
 * [RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone](https://par.nsf.gov/servlets/purl/10373878) [[code](https://github.com/WUSTL-CSPL/RT-TEE)]<br>
 **<u>Jinwen Wang</u>**, Ao Li, Haoran Li, Chenyang Lu, and Ning Zhang <br>
 43rd IEEE Symposium on Security and Privacy (S&P), 2022. <br>
 <span style="color: red;">*(**VehicleSec Qualcomm Best Demo Award Runner Up**)*</span>  
 <!-- **[S&P 22]** -->
 
-* [From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM](https://cybersecurity.seas.wustl.edu/paper/ao-iros22.pdf) [[code](https://github.com/WUSTL-CSPL/Timing-Adaptive-SLAM)]<br>
-Ao Li, Han Liu, **<u>Jinwen Wang</u>**, and Ning Zhang <br>
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
 
 [**Full Publication List**](https://j1nwenwang.github.io/publication/)
 

@@ -54,6 +54,9 @@ permalink: /publication/
 
 
 #### 2025
+* [ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory](./) <br>
+**<u>Jinwen Wang*</u>**, Hongchao Zhang*, Chuanrui Jiang, Andrew Clark, and Ning Zhang <br>
+32th ACM Conference on Computer and Communications Security (CCS), 2025. 
 
 * [Software Availability Protection in Cyber-physical Systems](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-967-li-ao.pdf) [[code](https://github.com/WUSTL-CSPL/Gecko)] <br>
 **<u>Jinwen Wang*</u>**, Ao Li*, and Ning Zhang <br>
