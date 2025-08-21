@@ -29,6 +29,8 @@ permalink: /homepage/
 ---
 * [Aug 25] My paper "ConTest: Taming the Cyber-physical Input Space in Fuzz Testing with Control Theory" is accepted in  [CCS'2025](https://www.sigsac.org/ccs/CCS2025/)!
 
+* [Aug 25] I received the Distinguished Reviewer Award at [USENIX VehicleSec'2025](https://www.usenix.org/conference/vehiclesec25)!
+
 * [Dec 24] My two papers " Software Availability Protection in Cyber-Physical Systems" and "Secure Information Embedding in Forensic 3D Fingerprinting" are accepted in  [Security'2025](https://www.usenix.org/conference/usenixsecurity25)!
 
 * [Nov 24] I am invited to serve on the TPC of [USENIX VehiclesSec'2025](https://www.usenix.org/conference/vehiclesec25)!
@@ -45,7 +47,6 @@ permalink: /homepage/
 
 * [Feb 23] My demo "Demo: Real-time System Availability for Cyber-physical Systems using ARM TrustZone" won VehicleSec Qualcomm Best Demo Award Runner Up in [VehicleSec'2023](https://www.ndss-symposium.org/ndss2023/co-located-events/vehiclesec/).
 
-* [Feb 23] My paper "IP Protection in TinyML" was accepted by [DAC'2023](https://www.dac.com/About/Conference-Archive/60th-DAC-2023).
 
 <!-- * [Jan 23] My paper "ARI: Attestation of Real-time Mission Execution Integrity" was accepted by [Security'2023](https://www.usenix.org/conference/usenixsecurity23).  -->
 
@@ -117,6 +118,7 @@ Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang <br
 ## Awards and Honors
 
 ---
+*   Distinguished Reviewer Award in USENIX VehicleSec 2025
 *   Travel Grant in USENIX Security 2025
 *   VehicleSec Qualcomm Best Demo Award Runner Up 2023
 *   Travel Grant in ACM CCS 2023
@@ -130,7 +132,6 @@ Ao Li, **<u>Jinwen Wang</u>**, Sanjoy Baruah, Bruno Sinopoli, and Ning Zhang <br
 
 ---
 **PC Member at Conferences:**
-
 * ACM Asia CCS 2026
 * ACM Cyber Security in Cars Workshop 2025
 * USENIX VehicleSec 2025
